@@ -1,0 +1,12 @@
+.user{
+    background-color: white;
+    box-shadow: 1px 3px 7px 3px rgb(166, 166, 247);
+}
+
+
+.pix{
+    height: 180px;
+    width: 250px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
