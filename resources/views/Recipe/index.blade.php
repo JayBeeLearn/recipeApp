@@ -3,7 +3,7 @@
 @section('content')
     @include('inc.navbar')
 
-  <h1 class="bg bg-primary rounded text-center text-white p-2 m-2">
+  <h1 class="bg bg-primary rounded text-center text-white p-1 m-2">
       Welcome to the Great Recipe Pages
   </h1>
 
